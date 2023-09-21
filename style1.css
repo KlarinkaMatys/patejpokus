@@ -3,7 +3,6 @@ body {
     justify-content: center;
     width: 100vw;
     height: 100vh;
-    display: grid;
     background-color: brown;
 } 
 
@@ -17,7 +16,7 @@ body {
        background-color: bisque;
 }
 
-    h1 {
+h1 {
     font-size: clamp(1rem,20px,2rem);
         font-family:Georgia, 'Times New Roman', Times, serif;
         color: blue;
